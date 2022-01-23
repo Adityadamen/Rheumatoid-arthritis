@@ -14,8 +14,7 @@ For the front-end we mainly used
 For the backend we used :<br>
 1.Flask<br>
 2.Node.js<br>
-3.DialogFlow<br>
-4.Tensoflow<br>
+3.Tensoflow<br>
 We used Mongo DB as the data base in order to store the required data(Blogs).
 ### Components of the Project
 1rheumatoid arthritis:With our Ml model and image detection we accurately diagnose whether someone is suffering with rheumatoid arthritis or not (Kindly upload orthopedist related relevant images only).The model was created using CNN architecture and deployed on flask(model.h5).<br>
