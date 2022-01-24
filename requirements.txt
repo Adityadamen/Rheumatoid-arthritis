@@ -28,4 +28,4 @@ Werkzeug==2.0.1
 gunicorn
 h5py==3.1.0
 pillow
-opencv-python
+opencv-python-headless==4.2.0.32
