@@ -27,10 +27,6 @@ Step 0: ```Git clone this project```<br>
 Step 1: ```cd <local-repository-folder>``` <br>
 Step 2: ```pip3 install -r requirements.txt```<br>
 Step3: ```python app.py```<br>
-### Credits
-Team Name:Hack200<br>
-Members:<br>
-Siddharth Ojha <br>
-Srajan Jain<br>
+
 S Aditya<br>
 
